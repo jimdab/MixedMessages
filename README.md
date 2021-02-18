@@ -8,9 +8,9 @@ To run this program:
 
 ## Sample output
 
-` Aidan Andres Alvarez`
-` Position: Middie`
-` Number: 42`
+` Aidan Andres Alvarez
+ Position: Middie
+ Number: 42`
 
 ## Sources
 The first and middle name arrays come from a list of the most popular names in the US from 2000 to 2009 [according to the social security administration](https://www.ssa.gov/OACT/babynames/decades/names2000s.html).
