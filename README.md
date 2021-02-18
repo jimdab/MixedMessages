@@ -1,4 +1,4 @@
-# # Mixed Messages - Lacrosse Player Generator
+# Mixed Messages - Lacrosse Player Generator
 First little project in the full-stack engineer career path from [Code Academy](https://www.codecademy.com/). Generates a string with a lacrosse player’s name, position and number. Each of those properties is randomly generated from arrays stored locally. 
 
 ## Setup
